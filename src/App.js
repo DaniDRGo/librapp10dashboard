@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect } from "react";
 import "./App.css";
 
 import Header from "./component/header/Header";
@@ -13,13 +13,15 @@ function App() {
         <Header />
       </header>
       <main>
-        {/* <Home /> */}
+        <Home />
       </main>
       <footer>
         <Footer />
       </footer>
     </div>
   );
-}
+
+  }
+
 
 export default App;
