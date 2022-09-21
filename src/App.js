@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 import React from "react";
-=======
-import React, { useEffect } from "react";
->>>>>>> jorge
 import "./App.css";
 
 import Header from "./component/header/Header";
