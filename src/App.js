@@ -1,9 +1,9 @@
-import React, { useEffect } from "react";
+import React from "react";
 import "./App.css";
 
 import Header from "./component/header/Header";
 import Footer from "./component/footer/Footer";
-import Home from './component/main/Home'
+import Productos from './component/main/Productos'
 
 
 function App() {
@@ -13,7 +13,7 @@ function App() {
         <Header />
       </header>
       <main>
-        <Home />
+        <Productos />
       </main>
       <footer>
         <Footer />
