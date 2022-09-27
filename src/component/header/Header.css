@@ -1,2 +1,12 @@
-
-
+.slidebar{
+    background-color: blue;
+    width: 15%;
+    text-align: center;
+    height: 80vh;
+}
+h5 {
+    color: azure;
+}
+.container-fluid{
+    border: solir red;
+}
